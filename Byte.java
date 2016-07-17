@@ -3,7 +3,7 @@ public class Byte{
 Nybble nybble1;
 Nybble nybble2;
 
-public Byte{Nybble first, Nybble second){
+public Byte(	Nybble first, Nybble second){
 this.nybble1=first;
 this.nybble2=second;
 }
