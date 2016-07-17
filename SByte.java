@@ -1,9 +1,9 @@
 import java.io.*;
-public class Byte{
+public class SByte{
 Nybble nybble1;
 Nybble nybble2;
 
-public Byte(	Nybble first, Nybble second){
+public SByte(	Nybble first, Nybble second){
 this.nybble1=first;
 this.nybble2=second;
 }
