@@ -1,10 +1,11 @@
+import java.util.HashMap;
 public class ASCIITable {
-;
-public Hashmap<Integer, Character> ascii = new HashMap<Integer, Character>();
+
+public HashMap<Integer, Character> ascii = new HashMap<Integer, Character>();
 
 public void init(){
-for(i=0;i<255;i++){
-ascii.put(i,(char)i)
+for(int i=0;i<255;i++){
+ascii.put(i,(char)i);
 }
 }
 }
