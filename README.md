@@ -1,6 +1,6 @@
 Hello World Project
 ===================
-This is a easy extensible Project, which is supposed to out Hello World.
+This is an easy extensible Project, which is supposed to output Hello World.
 
 @author: THE-MegaMan
 
