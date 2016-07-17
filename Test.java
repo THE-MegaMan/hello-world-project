@@ -1,6 +1,6 @@
 public class Test{
 public static void main(String args[]){
-StorageToInt sfac = new StorageToInt();
+/*StorageToInt sfac = new StorageToInt();
 Bit bit1 = new Bit(true);
 System.out.println(sfac.bitToInt(bit1));
 Bit bit2 = new Bit(false);
@@ -11,6 +11,6 @@ System.out.println(sfac.threeBitsToInt(thb1));
 Nybble n1 = new Nybble(bit2,thb1);
 System.out.println(sfac.nybbleToInt(n1));
 SByte s1 = new SByte(n1,n1);
-System.out.println(sfac.sbyteToInt(s1));
+System.out.println(sfac.sbyteToInt(s1));*/
 }
 }
