@@ -13,7 +13,7 @@ int twoBitsToInt(TwoBits tb) {
 
 int b1=(tb.get_state1().get_state()) ? 1 : 0;
 int b2=(tb.get_state2().get_state()) ? 2 : 0;
-return b1+b2
+return b1+b2;
 }
 
 int threeBitsToInt(ThreeBits tb) {
