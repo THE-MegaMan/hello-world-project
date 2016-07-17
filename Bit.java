@@ -14,7 +14,7 @@ public void dump(File file){
 
 try{
 
-out = new ObjectOutputStream(new FileOutputStream(file,true));
+ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream(file,true));
 out.writeObject(this);
 out.flush();
 out.close();
