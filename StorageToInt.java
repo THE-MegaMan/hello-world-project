@@ -31,9 +31,9 @@ return tb+b*8;
 }
 
 int sbyteToInt(SByte by){
-int n1=nybbleToInt(by.get_state1())*16
-int n2=nybbleToInt(by.get_state2())
-return n1+n2
+int n1=nybbleToInt(by.get_state1())*16;
+int n2=nybbleToInt(by.get_state2());
+return n1+n2;
 }
 }
 
