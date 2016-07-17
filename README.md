@@ -1,4 +1,8 @@
-====Hello World Project====
-This is a easy extensible Project, which should print out Hello World.
+Hello World Project
+==================
 
-@author: Mega Man
+This is an easy extensible Project, which is supposed to print Hello World!
+
+@author: THE-MegaMan
+
+Don't take this too seriously...
