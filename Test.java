@@ -12,8 +12,8 @@ Nybble n1 = new Nybble(bit2,thb1);
 System.out.println(sfac.nybbleToInt(n1));
 SByte s1 = new SByte(n1,n1);
 System.out.println(sfac.sbyteToInt(s1));
-ASCIITable ascii = new ASCIITable();
-ASCIITable.init();
-ascii.ascii.get(sfac.sbyteToInt(s1));
+ASCIITable table = new ASCIITable();
+table.init();
+System.out.println(table.ascii.get(sfac.sbyteToInt(s1)));
 }
 }
